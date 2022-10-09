@@ -1,0 +1,24 @@
+{
+  "name": "github-actions-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanisak/github-actions-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanisak/github-actions-example/issues"
+  },
+  "homepage": "https://github.com/khanisak/github-actions-example#readme",
+  "devDependencies": {
+    "semantic-release": "^19.0.5"
+  }
+}
