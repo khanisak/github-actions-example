@@ -5,7 +5,8 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,7 @@
   },
   "homepage": "https://github.com/khanisak/github-actions-example#readme",
   "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
     "semantic-release": "^19.0.5"
   }
 }
